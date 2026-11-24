@@ -1,6 +1,3 @@
-__pycache__/
-*.py[cod]
-scripts/*/out/
 .DS_Store
 .idea/
 .vscode/
